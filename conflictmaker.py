@@ -5,4 +5,3 @@ print (a+b)
 
 perkalian = a * b
 print(perkalian)
-
