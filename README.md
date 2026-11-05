@@ -1,3 +1,2 @@
 # Practice LTIK
-2607475
-Aldrich
+to fulfill my college matkul
